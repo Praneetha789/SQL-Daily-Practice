@@ -1,2 +1,10 @@
-# SQL-Daily-Practice
-Daily SQL practice queries including tables, joins and interview questions.
+This respository contains my daily  SQL practice 
+
+Topics:
+CREATE TABLE
+INSERT
+SELECT
+WHERE
+JOINS
+GROUP BY
+Subqueries
